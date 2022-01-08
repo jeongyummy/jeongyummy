@@ -4,5 +4,6 @@
          nickName: "jeongyummy",
          company: "brighant",
          skill: ["HTML", "CSS3", "JS", "JQUERY", "REACT", "VUE", "TYPESCRIPT" ],
-         interest: ["Front-End", "Travel", "Blog", "Yummy"]
+         interest: ["Front-End", "Travel", "Blog", "Yummy"],
+         project: ["saucelive 2.0 CMS Front", "bearlearn Front"]
        }
