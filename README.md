@@ -2,8 +2,8 @@
 
        const introduce = { 
          nickName: "jeongyummy",
-         company: "brighant",
-         skill: ["HTML", "CSS3", "JavaScript", "Jquery", "React", "Vue", "TypeScript" ],
+         company: "I wish to join a company that can grow with me!",
+         skill: ["HTML", "CSS", "JavaScript", "Jquery", "React", "Vue", "TypeScript" ],
          interest: ["Front-End", "Travel", "Blog", "Yummy"],
-         project: ["saucelive 2.0 CMS Front", "bearlearn Front"]
+         project: ["saucelive 2.0 CMS Front", "bearlearn Front", "please reply, plly", "Lawform-eSign service"]
        }
